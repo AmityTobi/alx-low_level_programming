@@ -11,9 +11,8 @@
  */
 int main(void)
 {
-	ch = sizeof(char);
-	int_type = sizeof(int);
-	float_type = sizeof(float);
-	double_type = size0f(double);
+	char ch = sizeof(char);
+	int int_type = sizeof(int);
+	float float_type = sizeof(float);
 	return (0);
 }
