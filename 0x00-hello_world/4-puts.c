@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
- * Using the puts function
+ * main - Entry point
+ *
+ * puts - displays strings to output
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
