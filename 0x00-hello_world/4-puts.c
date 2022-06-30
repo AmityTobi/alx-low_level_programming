@@ -1,13 +1,10 @@
 #include <stdio.h>
 
 /**
- * puts- Takes in strings of character
- *
- * main- Entry point
- * return: Returns null
+ * Using the puts function
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
