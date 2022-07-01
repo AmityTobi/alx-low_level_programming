@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	char lower = 'a'
-	char upper = 'A'
+	char lower = 'a';
+	char upper = 'A';
 
 	while (lower <= 'z') /* loop through lower-cases a-z*/
 	{
