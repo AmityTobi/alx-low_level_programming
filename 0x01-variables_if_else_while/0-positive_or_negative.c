@@ -4,7 +4,6 @@
 
 /**
  * main - Entry point
- * 
  * printf - prints to system output
  *
  * if - Using the conditional statement
