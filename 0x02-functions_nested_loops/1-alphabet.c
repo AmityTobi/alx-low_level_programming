@@ -2,8 +2,7 @@
 
 /**
  * while - looping through the alphabets
- *
- * _putchar - Print out function
+ * _putchar - print out the alphabet
  */
 void print_alphabet(void)
 {
