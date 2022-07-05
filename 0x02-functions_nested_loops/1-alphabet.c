@@ -1,7 +1,6 @@
 #include "main.h"
 
-/**
- * while - looping through the alphabets
+/*
  * _putchar - print out the alphabet
  */
 void print_alphabet(void)
