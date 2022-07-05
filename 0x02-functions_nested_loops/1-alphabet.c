@@ -1,20 +1,15 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * while - looping through the alphabets
  *
- * Return: Always 0.
+ * _putchar - used to display output
  */
-int main(void)
-{	
-	print_alphabet();
-	return (0);
-}
 void print_alphabet(void)
 {
 	char ch = 'a';
 
-	while ('a' <= 'z')
+	while (ch <= 'z')
 	{
 		_putchar(ch);
 		ch++;
