@@ -3,7 +3,7 @@
 /**
  * while - looping through the alphabets
  *
- * _putchar - used to display output
+ * _putchar - Print out function
  */
 void print_alphabet(void)
 {
